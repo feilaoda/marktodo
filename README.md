@@ -45,19 +45,19 @@ Marktodo： A syntax for TODO lists
 
 支持的附加字段：
 
-	- id 			全局唯一标识
+	id 			全局唯一标识
  	
-	- user 			TODO任务的创建者/完成者
+	user 			TODO任务的创建者/完成者
 	
-	- complete-date TODO任务的完成时间(格式： YYYY-MM-DD)
+	complete-date TODO任务的完成时间(格式： YYYY-MM-DD)
 	
-	- creation-date TODO任务的创建时间(格式： YYYY-MM-DD)
+	creation-date TODO任务的创建时间(格式： YYYY-MM-DD)
 	
-	- due-date 		TODO任务预计完成时间(格式： YYYY-MM-DD)
+	due-date 		TODO任务预计完成时间(格式： YYYY-MM-DD)
 
 Project，TODO list只支持id、user字段
 
-任何附加字段都是可选的，附加字段的值可以使用双引号""包含起来,也可以不用，字段之间使用空格分割。
+任何附加字段都是可选的，附加字段的值可以使用双引号""包含起来，也可以不用，字段之间使用空格分割。
 
 # 例子 #
 
