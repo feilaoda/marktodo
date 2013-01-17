@@ -45,13 +45,13 @@ Marktodo： A syntax for TODO lists
 
 支持的附加字段：
 
-	id 			全局唯一标识
+	id 				全局唯一标识
  	
 	user 			TODO任务的创建者/完成者
 	
-	complete-date TODO任务的完成时间(格式： YYYY-MM-DD)
+	complete-date 	TODO任务的完成时间(格式： YYYY-MM-DD)
 	
-	creation-date TODO任务的创建时间(格式： YYYY-MM-DD)
+	creation-date 	TODO任务的创建时间(格式： YYYY-MM-DD)
 	
 	due-date 		TODO任务预计完成时间(格式： YYYY-MM-DD)
 
