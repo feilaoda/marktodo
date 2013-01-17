@@ -11,7 +11,6 @@ Marktodo： A syntax for TODO lists
 			[+] done item b
 			[+] done item c
 	
-
 # 系统标识 #
 
 使用2个#号包含起来，放在第一行。系统标识用来标识该文档由什么系统生成，可选。
